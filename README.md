@@ -13,7 +13,7 @@ A user-friendly Shiny web application for analyzing qPCR data. Upload your qPCR 
 1. Clone or download this repository:
    
 Click the green "Code" button and choose "Download ZIP", or use git:
-git clone https://github.com/IPSamos/qPCR-analysis.git
+`git clone https://github.com/IPSamos/qPCR-analysis.git`
 
 2. Open R or RStudio.
 
