@@ -28,6 +28,8 @@ Click the green "Code" button and choose "Download ZIP", or use git:
 
 `setwd("path/to/qPCR-analysis")`
 
+Or open the app from R/RStudio.
+
 5. In the R console, run:
 
 `shiny::runApp()`
