@@ -34,8 +34,7 @@ shiny::runApp()
 3. Click Process Data.
 4. View the Standard Curve and regression details.
 5. Go to the Processed Data tab to see calculated copies per µL and download results.
-
-# You will find a template of the qPCR data and the Standard values data. 
+Note: You will find a template of the qPCR data and the Standard values data. 
 
 License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
