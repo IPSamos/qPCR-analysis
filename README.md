@@ -36,7 +36,7 @@ git clone https://github.com/IPSamos/shiny-qPCR-analysis.git
 4. View the Standard Curve and regression details.
 5. Go to the Processed Data tab to see calculated copies per µL and download results.
 
-**Note**: You will find a template of the qPCR data and the Standard values data. 
+**Note**: You will find a template of the qPCR data and the Standard values data. The columns used need to be exactly as explained in the mentioned templates.
 
 License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
