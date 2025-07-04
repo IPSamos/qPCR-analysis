@@ -28,7 +28,7 @@ Click the green "Code" button and choose "Download ZIP", or use git:
 
 `setwd("path/to/qPCR-analysis")`
 
-Or open the app from R/RStudio.
+_(Or use RStudio's file pane to navigate and set the working directory.)_
 
 5. In the R console, run:
 
