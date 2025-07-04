@@ -11,8 +11,9 @@ A user-friendly Shiny web application for analyzing qPCR data. Upload your qPCR 
 
 # How to Run This Shiny App Locally
 1. Clone or download this repository:
+   
 Click the green "Code" button and choose "Download ZIP", or use git:
-git clone https://github.com/IPSamos/shiny-qPCR-analysis.git
+git clone https://github.com/IPSamos/qPCR-analysis.git
 
 2. Open R or RStudio.
 
@@ -25,7 +26,9 @@ git clone https://github.com/IPSamos/shiny-qPCR-analysis.git
 
 4. Set your working directory to the folder where you downloaded the app.
 
-5. Run the app:
+`setwd("path/to/qPCR-analysis")`
+
+5. In the R console, run:
 
 `shiny::runApp()`
 
