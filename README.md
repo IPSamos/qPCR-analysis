@@ -17,16 +17,17 @@ git clone https://github.com/IPSamos/shiny-qPCR-analysis.git
 2. Open R or RStudio.
 
 3. Install required packages (if not already installed):
-install.packages(c(
+
+`install.packages(c(
   "shiny", "bslib", "shinythemes", "dplyr", "ggplot2", 
   "plotly", "readr", "writexl"
-))
+))`
 
 4. Set your working directory to the folder where you downloaded the app.
 
 5. Run the app:
 
-shiny::runApp()
+`shiny::runApp()`
 
 # Usage
 1. Upload your qPCR data file (CSV, exported from your qPCR device; decimal separator must be a point, and all commas should be removed).
@@ -34,7 +35,8 @@ shiny::runApp()
 3. Click Process Data.
 4. View the Standard Curve and regression details.
 5. Go to the Processed Data tab to see calculated copies per µL and download results.
-Note: You will find a template of the qPCR data and the Standard values data. 
+
+**Note**: You will find a template of the qPCR data and the Standard values data. 
 
 License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
