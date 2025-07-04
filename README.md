@@ -38,7 +38,7 @@ git clone https://github.com/IPSamos/shiny-qPCR-analysis.git
 
 **Note**: You will find a template of the qPCR data and the Standard values data. The columns used need to be exactly as explained in the mentioned templates.
 
-**IMPORTANT**: The standards used to create this app were triplicates and were placed in the first three columns of the qPCR (from A01 to H01, from A02 to H02, and from A03 to H03). The app to work doesn't require to have triplicates of the standards, **but it requires the standards to be placed in the first three columns and the samples placed from the fourth colum onwards**. Check the following example. 
+**IMPORTANT**: The standards used to create this app were triplicates and were placed in the first three columns of the qPCR (from A01 to H01, from A02 to H02, and from A03 to H03). The app to work doesn't require to have triplicates of the standards, **but it requires the standards to be placed in the first three columns and the samples placed from the fourth colum onwards**. You don't need to fulfill all the standard wells, or the sample wells since all the NA are removed automatically. Check the following example. 
 
 |   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 |---|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
