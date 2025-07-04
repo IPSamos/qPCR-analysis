@@ -38,9 +38,11 @@ git clone https://github.com/IPSamos/shiny-qPCR-analysis.git
 
 **Note**: You will find a template of the qPCR data and the Standard values data. The columns used need to be exactly as explained in the mentioned templates.
 
-License:
+---
+
+**License:**
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 See the LICENSE file for details.
 
-Author:
+**Author:**
 Ivan P. Samos
