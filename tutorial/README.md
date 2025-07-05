@@ -26,7 +26,7 @@ Let me show you how it looks like if opening it in Excel. It is a .csv file, and
 
 ![Captura de pantalla 2025-07-05 121517](https://github.com/user-attachments/assets/0bb8ddfb-6e4b-4cbd-bc52-dd7fb1d9c04e)
 
-Regarding the standards' file, it looks like this.
+Regarding the standards' file, it looks like this. You can prepare it, for instance, with Microsoft Excel. 
 It only has two columns (_Well_ and _Copies.uL_), and **they need to be named exactly as written previosly**. It is a .csv file, and the separator is ";":
 
 ![Captura de pantalla 2025-07-05 122202](https://github.com/user-attachments/assets/96191195-a6c0-494d-88b4-9c0f1a740829)
@@ -45,26 +45,35 @@ Click the green "Code" button and choose "Download ZIP", or use git: git clone h
 
 `install.packages(c( "shiny", "bslib", "shinythemes", "dplyr", "ggplot2",  "plotly", "readr", "writexl" ))`
 
-4. Set your working directory to the folder where you downloaded the app. This is very important. One easy way to set the directory, is open the file app.R directly.
-   If not the code to set the working directory is:
+4. Set your working directory to the folder where you downloaded the app. This is very important. The code to set the working directory is:
    
 `setwd("path/to/qPCR-analysis")`
 
 (Or use RStudio's file pane to navigate and set the working directory.)
 
 5. In the R console, run:
+
 `shiny::runApp()`
 
 Once you have run the app. It should look like this:
 
+![image](https://github.com/user-attachments/assets/3cf7de28-8216-4ba7-b9a9-f228a8d6a6f3)
+
+Now, just upload the qPCR data in the right spot, and the same with the standard data
+
+![image](https://github.com/user-attachments/assets/b6cf8fac-85a0-41a7-88bc-db1703614a01)
+
+Then you can navigate through the app and check the standard curve, the results' table, and download both. 
+The results using the example data are these:
+
+**Standard curve**:
+
+![image](https://github.com/user-attachments/assets/bb13ac16-b949-4b5d-9c53-28b36e8c3175)
+
+**Results' table**:
+
+![image](https://github.com/user-attachments/assets/12c9add2-935c-4aba-837c-81f590fb4fa5)
 
 
-
-
-
-
-
-
-
-
-
+I hope this tutorial was helpful to understand how this works. It is easy and will just require a few minutes to make it work. 
+Any questions or doubts, please, don't hesitate and contact me. 
