@@ -1,5 +1,7 @@
 # qPCR Analysis Shiny App
-A user-friendly Shiny web application for analyzing qPCR data. Upload your qPCR results and standard values, generate a standard curve, calculate copies per µL, and download processed results—all in one place. The app includes clear instructions and an example template for standard values. You will find an example with screenshots to make it even clearer in the folder "tutorial".
+A user-friendly Shiny web application for analyzing qPCR data. Upload your qPCR results and standard values, generate a standard curve, calculate copies per µL, and download processed results—all in one place. The app includes clear instructions and an example template for standard values. 
+
+**You will find an example with screenshots to make it even clearer in the folder "tutorial".**
 
 # Features
 - Upload qPCR data and standard values in CSV format
