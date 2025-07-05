@@ -45,7 +45,9 @@ Click the green "Code" button and choose "Download ZIP", or use git: git clone h
 
 install.packages(c( "shiny", "bslib", "shinythemes", "dplyr", "ggplot2",  "plotly", "readr", "writexl" ))
 
-4. Set your working directory to the folder where you downloaded the app.
+4. Set your working directory to the folder where you downloaded the app. This is very important. One easy way to set the directory, is open the file app.R directly.
+   If not the code to set the working directory is:
+   
 setwd("path/to/qPCR-analysis")
 
 (Or use RStudio's file pane to navigate and set the working directory.)
