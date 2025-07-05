@@ -34,7 +34,28 @@ It only has two columns (_Well_ and _Copies.uL_), and **they need to be named ex
 
 # Analysis of data
 
-Now we have our data prepared. It's time to open the ShinyApp. 
+Now we have our data prepared. It's time to open the ShinyApp. There are two ways of running this app locally (as described in the main page)
+
+1. Clone or download this repository:
+Click the green "Code" button and choose "Download ZIP", or use git: git clone https://github.com/IPSamos/qPCR-analysis.git
+
+2. Open R or RStudio.
+
+3. Install required packages (if not already installed):
+
+install.packages(c( "shiny", "bslib", "shinythemes", "dplyr", "ggplot2",  "plotly", "readr", "writexl" ))
+
+4. Set your working directory to the folder where you downloaded the app.
+setwd("path/to/qPCR-analysis")
+
+(Or use RStudio's file pane to navigate and set the working directory.)
+
+5. In the R console, run:
+shiny::runApp()
+
+Once you have run the app. It should look like this:
+
+
 
 
 
