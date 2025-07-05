@@ -12,7 +12,7 @@ We run a qPCR of the 16S genes of multiples samples. Our objective was to see ho
 | G | std | std | std | S6  | S6  | S6  | S13 | S13 | S13 | S20 | S20 | S20 |
 | H | std | std | std | S7  | S7  | S7  | S14 | S14 | S14 | NC  | NC  | NC  |
 
-_Being std the standards (up to you how you set this experiment up), and SX are the samples._
+_Being "std" the standards (up to you how you set this experiment up), and "SX" the samples._
 
 Once we got our qPCR done, the device gave us multiple output files. The one that we were looking at were the one you see in the "template" folder. 
 While the qPCR was running, we prepared the "standards" file. 
