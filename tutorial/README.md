@@ -1,5 +1,17 @@
 # Generation of the data
-We run a qPCR of the 16S genes of multiples samples. Our objective was to see how many of a certain type of bacteria were there. Once we got our qPCR done, the device gave us multiple output files. The one that we were looking at were the one you see in the "template" folder. 
+We run a qPCR of the 16S genes of multiples samples. Our objective was to see how many of a certain type of bacteria were there. Our layout was like this:
+|   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+|---|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| A | std | std | std |     |     |     |     |     |     |     |     |     |
+| B | std | std | std | S1  | S1  | S1  | S8  | S8  | S8  | S15 | S15 | S15 |
+| C | std | std | std | S2  | S2  | S2  | S9  | S9  | S9  | S16 | S16 | S16 |
+| D | std | std | std | S3  | S3  | S3  | S10 | S10 | S10 | S17 | S17 | S17 |
+| E | std | std | std | S4  | S4  | S4  | S11 | S11 | S11 | S18 | S18 | S18 |
+| F | std | std | std | S5  | S5  | S5  | S12 | S12 | S12 | S19 | S19 | S19 |
+| G | std | std | std | S6  | S6  | S6  | S13 | S13 | S13 | S20 | S20 | S20 |
+| H | std | std | std | S7  | S7  | S7  | S14 | S14 | S14 | NC  | NC  | NC  |
+
+Once we got our qPCR done, the device gave us multiple output files. The one that we were looking at were the one you see in the "template" folder. 
 While the qPCR was running, we prepared the "standards" file. 
 You can see how they look below. 
 
