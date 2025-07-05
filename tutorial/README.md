@@ -17,6 +17,7 @@ Once we got our qPCR done, the device gave us multiple output files. The one tha
 While the qPCR was running, we prepared the "standards" file. 
 You can see how they look below. 
 
+**Datasets:**
 The output from the qPCR was named "XXXXXXXX - Quantification Cq Results.csv". Your qPCR may name it differently, but the table that you need to use is like the one you can see below. Through the tutorial, and in the description of this app, it is mentioned that the columns used are "Well" and "Starting.Quantity..SQ.". This second name might look weird, but it is exactly the name provided by the output of the qPCR, and the aim of this is to make it easy, so my team can use the output of the qPCR directly into the ShinyApp. If your column's name doesn't look like this, you can always change it very easily by opening it in Microsoft Excel or opening it with the NotePad, and this app will work for you as well. 
 
 | Well | Fluor | Target | Content | Sample | Cq   | Cq Mean | Starting.Quantity..SQ. | ... |
