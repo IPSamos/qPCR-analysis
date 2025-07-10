@@ -30,7 +30,7 @@ ui <- navbarPage(
         h4("Instructions"),
         p("1. You will get the data from the qPCR device. The file that you need is the 'Quantification Cq Results', and the decimal separator needs to be a point. Remove all the commas from the file."),
         p("2. The standard values' file needs to follow an exact format. You can see the template below:"),
-        p("IMPORTANT: Notice that the standards need to be in the first three columns while doing the PCR"),
+        p("IMPORTANT: Notice that the standards need to be in the first three columns while doing the qPCR"),
         tags$table(
           style = "width: 50%; margin: 20px auto; border-collapse: collapse; text-align: center;",
           tags$thead(
