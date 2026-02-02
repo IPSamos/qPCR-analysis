@@ -33,7 +33,7 @@ It only has four columns (_Sample_, _Dilution.factor_, _Well1_, _Well2_ and _Wel
 <img width="506" height="546" alt="image" src="https://github.com/user-attachments/assets/6f2e46d0-2941-4c00-8bef-fb5ef63fb359" />
 
 
-# Analysis of data
+# Usage of the app
 
 Now we have our data prepared. It's time to open the ShinyApp. There are two ways of running this app locally (as described in the main page)
 
@@ -66,10 +66,11 @@ Now, just upload the qPCR data in the right spot, and the same with the "Templat
 <img width="1823" height="727" alt="image" src="https://github.com/user-attachments/assets/89ae8e23-fcd9-45ce-ae23-d5487be74402" />
 
 Then you can navigate through the app and check the results' table, and download it in .csv or .xlsx
-The results using the example data are these:
+The results using the example data are below.
 
 
-**Results' table**:
+
+# Results' table
 
 <img width="1842" height="871" alt="image" src="https://github.com/user-attachments/assets/dec24338-75c1-4353-a1e5-a9a5bcca336b" />
 
