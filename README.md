@@ -50,7 +50,8 @@ _(Or use RStudio's file pane to navigate and set the working directory.)_
 
 **About the files to analyse:** You will find a template of the qPCR data and the Template table in the folder "templates". The columns used need to be exactly as explained in the mentioned templates.
 
-**IMPORTANT**: When preparing the qPCR, the standards used to create this app were triplicates and were placed in the first three columns of the qPCR (from A01 to H01, from A02 to H02, and from A03 to H03). The app to work doesn't require to have triplicates of the standards, **just modify your template table correctly and remember to select or unselect the wells in the app.** Check the following example. 
+**IMPORTANT**: When preparing the qPCR, the standards used to create this app were triplicates and were placed in the first three columns of the qPCR (from A01 to H01, from A02 to H02, and from A03 to H03). The app to work doesn't require to have triplicates of the standards, **just modify your template table correctly and remember to select or unselect the wells in the app.** See the following example. 
+
 
 |   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 |---|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -64,6 +65,7 @@ _(Or use RStudio's file pane to navigate and set the working directory.)_
 | H | std | std | std | S7  | S7  | S7  | S14 | S14 | S14 | NC  | NC  | NC  |
 
 ---
+
 
 **License:**
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
