@@ -58,12 +58,13 @@ Click the green "Code" button and choose "Download ZIP", or use git: git clone h
 
 Once you have run the app. It should look like this:
 
+
 <img width="1906" height="953" alt="image" src="https://github.com/user-attachments/assets/192e8b7c-f737-4384-be74-c412b1f7676a" />
+<img width="1815" height="767" alt="image" src="https://github.com/user-attachments/assets/71833a6d-2ca3-43ae-8653-e7f8a445ea70" />
+
 
 Now, just upload the qPCR data in the right spot, and the same with the "Template table". If you need a "Template table" you can scroll in this first tab and download it. **If you need a "Template table" you can scroll in this first tab and download it.**
-<img width="1862" height="902" alt="image" src="https://github.com/user-attachments/assets/b8d32b99-eb77-48d7-ae76-bf4704f354fa" />
 
-<img width="1823" height="727" alt="image" src="https://github.com/user-attachments/assets/89ae8e23-fcd9-45ce-ae23-d5487be74402" />
 
 Then you can navigate through the app and check the results' table, and download it in .csv or .xlsx
 The results using the example data are below.
