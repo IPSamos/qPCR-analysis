@@ -36,6 +36,7 @@ _(Or use RStudio's file pane to navigate and set the working directory.)_
 `shiny::runApp()`
 
 # Usage
+**THE MOST IMPORTANT THING IS TO READ THE INSTRUCTIONS IN THE APP.** Below I will give you a guide as well, but it is easier to follow when using the app. 
 1. Upload your qPCR data file (CSV, exported from your qPCR device; decimal separator can be chosen in the app).
 2. Upload your standard values file (.xlsx, following the provided template). Here you can choose the each sample name and all the dilution factors. 
 3. You can set the amount of sample used for your qPCR process.
