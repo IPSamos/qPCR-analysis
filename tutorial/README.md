@@ -24,7 +24,8 @@ The output from the qPCR was named "XXXXXXXX - Quantification Cq Results.csv". Y
 
 Let me show you how it looks like if opening it in Excel. It is a .csv file, and the separator is ";":
 
-![Captura de pantalla 2025-07-05 121517](https://github.com/user-attachments/assets/0bb8ddfb-6e4b-4cbd-bc52-dd7fb1d9c04e)
+<img width="1543" height="601" alt="image" src="https://github.com/user-attachments/assets/19eadb75-a3d0-407d-a006-19d0d2536105" />
+
 
 Regarding the standards' file, it looks like this. You can prepare it, for instance, with Microsoft Excel. 
 It only has two columns (_Well_ and _Copies.uL_), and **they need to be named exactly as written previosly**. It is a .csv file, and the separator is ";":
