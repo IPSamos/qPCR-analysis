@@ -30,7 +30,7 @@ Let me show you how it looks like if opening it in Excel. It is a .csv file, and
 Regarding the "Template table" for the selected samples, it looks like this. You can prepare it, for instance, with Microsoft Excel. **The easy way of getting this table is downloading it from the app. I added that option in the first tab.** 
 It only has four columns (_Sample_, _Dilution.factor_, _Well1_, _Well2_ and _Well3_), and **they need to be named exactly as written previosly**. It is a .xlsx file. See an example below:
 
-<img width="592" height="648" alt="image" src="https://github.com/user-attachments/assets/a6ca08c9-ac62-401b-8cd1-dfc0582d16b8" />
+<img width="506" height="546" alt="image" src="https://github.com/user-attachments/assets/6f2e46d0-2941-4c00-8bef-fb5ef63fb359" />
 
 
 # Analysis of data
