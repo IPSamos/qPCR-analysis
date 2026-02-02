@@ -27,10 +27,10 @@ Let me show you how it looks like if opening it in Excel. It is a .csv file, and
 <img width="1543" height="601" alt="image" src="https://github.com/user-attachments/assets/19eadb75-a3d0-407d-a006-19d0d2536105" />
 
 
-Regarding the standards' file, it looks like this. You can prepare it, for instance, with Microsoft Excel. 
-It only has two columns (_Well_ and _Copies.uL_), and **they need to be named exactly as written previosly**. It is a .csv file, and the separator is ";":
+Regarding the "Template table" for the selected samples, it looks like this. You can prepare it, for instance, with Microsoft Excel. **The easy way of getting this table is downloading it from the app. I added that option in the first tab.** 
+It only has four columns (_Sample_, _Dilution.factor_, _Well1_, _Well2_ and _Well3_), and **they need to be named exactly as written previosly**. It is a .xlsx file. See an example below:
 
-![Captura de pantalla 2025-07-05 122202](https://github.com/user-attachments/assets/96191195-a6c0-494d-88b4-9c0f1a740829)
+<img width="592" height="648" alt="image" src="https://github.com/user-attachments/assets/a6ca08c9-ac62-401b-8cd1-dfc0582d16b8" />
 
 
 # Analysis of data
@@ -58,22 +58,20 @@ Click the green "Code" button and choose "Download ZIP", or use git: git clone h
 
 Once you have run the app. It should look like this:
 
-![image](https://github.com/user-attachments/assets/3cf7de28-8216-4ba7-b9a9-f228a8d6a6f3)
+<img width="1906" height="953" alt="image" src="https://github.com/user-attachments/assets/192e8b7c-f737-4384-be74-c412b1f7676a" />
 
-Now, just upload the qPCR data in the right spot, and the same with the standard data
+Now, just upload the qPCR data in the right spot, and the same with the "Template table". If you need a "Template table" you can scroll in this first tab and download it. **If you need a "Template table" you can scroll in this first tab and download it.**
+<img width="1862" height="902" alt="image" src="https://github.com/user-attachments/assets/b8d32b99-eb77-48d7-ae76-bf4704f354fa" />
 
-![image](https://github.com/user-attachments/assets/b6cf8fac-85a0-41a7-88bc-db1703614a01)
+<img width="1823" height="727" alt="image" src="https://github.com/user-attachments/assets/89ae8e23-fcd9-45ce-ae23-d5487be74402" />
 
-Then you can navigate through the app and check the standard curve, the results' table, and download both. 
+Then you can navigate through the app and check the results' table, and download it in .csv or .xlsx
 The results using the example data are these:
 
-**Standard curve**:
-
-![image](https://github.com/user-attachments/assets/bb13ac16-b949-4b5d-9c53-28b36e8c3175)
 
 **Results' table**:
 
-![image](https://github.com/user-attachments/assets/12c9add2-935c-4aba-837c-81f590fb4fa5)
+<img width="1842" height="871" alt="image" src="https://github.com/user-attachments/assets/dec24338-75c1-4353-a1e5-a9a5bcca336b" />
 
 
 I hope this tutorial was helpful to understand how this works. It is easy and will just require a few minutes to make it work. 
